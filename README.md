@@ -16,3 +16,4 @@ This spam detection task involves building a simple machine-learning model that 
 
 *OUTPUT*
 
+<img width="693" height="423" alt="Image" src="https://github.com/user-attachments/assets/82ac0d16-7597-4283-be17-080b02ba9812" />
